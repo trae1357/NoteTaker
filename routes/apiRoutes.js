@@ -1,6 +1,6 @@
 
 const noteData = require("../db/db.json")
-// ROUTING
+
 const { v4: uuidv4 } = require('uuid');
 const fs = require("fs");
 
