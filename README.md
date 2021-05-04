@@ -12,3 +12,6 @@ With the super easy to use app you can add a Title, and Text and also save your 
 and once you are done with the note you can delete the note with a easy trash button. 
 
 <img width="415" alt="notetaker3" src="https://user-images.githubusercontent.com/73687257/116952924-29465f80-ac49-11eb-96bf-19f0e00f4e0a.png">
+
+
+I hope you enjoy the Note Taker App!!
